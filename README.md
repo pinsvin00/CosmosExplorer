@@ -11,6 +11,7 @@ Space - Use thruster
 ```
 
 # Screenshots
-![obraz](https://github.com/pinsvin00/CosmosExplorer/assets/77679510/3d2db987-12d9-4440-aef3-f8c45daa4da9)
-![obraz](https://github.com/pinsvin00/CosmosExplorer/assets/77679510/d77402df-37e2-4e49-990d-48a213f232f9)
+![obraz](https://github.com/pinsvin00/CosmosExplorer/assets/77679510/11de632a-c4d0-4d56-be12-49b05f9acf6e)
+![obraz](https://github.com/pinsvin00/CosmosExplorer/assets/77679510/dca27771-e135-4e61-951b-7412b60ee999)
+![obraz](https://github.com/pinsvin00/CosmosExplorer/assets/77679510/eb0bd7bc-5e92-471b-b170-4180818e092e)
 
